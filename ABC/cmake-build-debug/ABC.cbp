@@ -1,0 +1,1643 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="ABC"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="177C.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/177C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 177C.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="177C.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/177C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 177C.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="223A.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/223A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 223A.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="223A.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/223A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 223A.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="223B.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/223B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 223B.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="223B.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/223B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 223B.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="236B.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/236B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 236B.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="236B.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/236B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 236B.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="241A.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/241A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 241A.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="241A.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/241A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 241A.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="244A.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/244A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 244A.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="244A.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/244A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 244A.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="129D.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/129D.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 129D.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="129D.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/129D.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 129D.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="244D.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/244D.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 244D.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="244D.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/244D.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 244D.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="250B.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/250B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 250B.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="250B.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/250B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 250B.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="243C.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/243C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 243C.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="243C.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/243C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 243C.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00test.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/00test.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 00test.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="00test.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/00test.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 00test.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="226B.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/226B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 226B.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="226B.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/226B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 226B.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="248A.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/248A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 248A.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="248A.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/248A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 248A.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="247A.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/247A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 247A.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="247A.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/247A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 247A.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="248C.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/248C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 248C.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="248C.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/248C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 248C.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="236A.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/236A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 236A.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="236A.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/236A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 236A.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="249C.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/249C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 249C.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="249C.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/249C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 249C.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="247C.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/247C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 247C.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="247C.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/247C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 247C.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="248D.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/248D.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 248D.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="248D.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/248D.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 248D.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="226C.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/226C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 226C.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="226C.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/226C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 226C.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="243B.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/243B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 243B.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="243B.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/243B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 243B.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="250A.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/250A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 250A.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="250A.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/250A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 250A.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="244C.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/244C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 244C.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="244C.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/244C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 244C.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="084D.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/084D.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 084D.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="084D.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/084D.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 084D.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="249A.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/249A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 249A.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="249A.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/249A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 249A.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="247B.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/247B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 247B.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="247B.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/247B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 247B.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="243A.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/243A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 243A.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="243A.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/243A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 243A.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="248B.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/248B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 248B.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="248B.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/248B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 248B.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="249B.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/249B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 249B.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="249B.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/249B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 249B.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="226A.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/226A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 226A.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="226A.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/226A.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 226A.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="241C.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/241C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 241C.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="241C.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/241C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 241C.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="241B.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/241B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 241B.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="241B.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/241B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 241B.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="244B.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/244B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 244B.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="244B.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/244B.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 244B.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="250C.cpp">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/250C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 250C.cpp"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="250C.cpp/fast">
+				<Option output="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/250C.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/aarch64-apple-darwin20"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/../../../../../../include/c++/11/backward"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include"/>
+					<Add directory="/opt/homebrew/Cellar/gcc/11.2.0_2/lib/gcc/11/gcc/aarch64-apple-darwin20/11/include-fixed"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/usr/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/SDKs/MacOSX11.sdk/System/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 250C.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/oharayoji/Desktop/AtCoder/ABC/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/00test.cpp">
+			<Option target="00test.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/084D.cpp">
+			<Option target="084D.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/129D.cpp">
+			<Option target="129D.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/177C.cpp">
+			<Option target="177C.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/223A.cpp">
+			<Option target="223A.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/223B.cpp">
+			<Option target="223B.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/226A.cpp">
+			<Option target="226A.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/226B.cpp">
+			<Option target="226B.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/226C.cpp">
+			<Option target="226C.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/236A.cpp">
+			<Option target="236A.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/236B.cpp">
+			<Option target="236B.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/241A.cpp">
+			<Option target="241A.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/241B.cpp">
+			<Option target="241B.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/241C.cpp">
+			<Option target="241C.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/243A.cpp">
+			<Option target="243A.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/243B.cpp">
+			<Option target="243B.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/243C.cpp">
+			<Option target="243C.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/244A.cpp">
+			<Option target="244A.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/244B.cpp">
+			<Option target="244B.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/244C.cpp">
+			<Option target="244C.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/244D.cpp">
+			<Option target="244D.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/247a.cpp">
+			<Option target="247A.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/247b.cpp">
+			<Option target="247B.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/247c.cpp">
+			<Option target="247C.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/248A.cpp">
+			<Option target="248A.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/248B.cpp">
+			<Option target="248B.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/248C.cpp">
+			<Option target="248C.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/248D.cpp">
+			<Option target="248D.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/249a.cpp">
+			<Option target="249A.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/249b.cpp">
+			<Option target="249B.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/249c.cpp">
+			<Option target="249C.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/250a.cpp">
+			<Option target="250A.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/250b.cpp">
+			<Option target="250B.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/250c.cpp">
+			<Option target="250C.cpp"/>
+		</Unit>
+		<Unit filename="/Users/oharayoji/Desktop/AtCoder/ABC/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
